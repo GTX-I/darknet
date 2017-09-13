@@ -1,3 +1,6 @@
+Special thanks for Darknet!
+This repository is made for operating Darknet with TX1.
+
 ![Darknet Logo](http://pjreddie.com/media/files/darknet-black-small.png)
 
 #Darknet#
