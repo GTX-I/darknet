@@ -4,7 +4,9 @@ OPENCV=1
 OPENMP=0
 DEBUG=0
 
-ARCH= -gencode arch=compute_53,code=[sm_53,compute_53]
+# TX1(Maxwell) is 53, TX2(Pascal) is 62
+ARCH= -gencode arch=compute_53,code=[sm_53,compute_53] \
+      -gencode arch=compute_62,code=[sm_62,compute_62]
 
 # This is what I use, uncomment if you know your arch and want to specify
 # ARCH= -gencode arch=compute_52,code=compute_52
