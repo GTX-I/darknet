@@ -1,5 +1,5 @@
 Special thanks for Darknet!
-This repository is made for operating Darknet with TX1.
+This repository is made for operating Darknet with GTX-I (/w TX1 and TX2).
 
 ![Darknet Logo](http://pjreddie.com/media/files/darknet-black-small.png)
 
